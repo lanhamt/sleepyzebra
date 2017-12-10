@@ -1,3 +1,7 @@
+'''
+Program measures time required to propagate update through network of embedded
+radio devices using the trickle protocol.
+'''
 import time
 import RPi.GPIO as gpio
 
